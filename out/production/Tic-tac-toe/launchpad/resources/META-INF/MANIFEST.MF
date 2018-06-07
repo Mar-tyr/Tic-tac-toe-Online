@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: libs/mybatis-3.4.6.jar libs/sqlite-jdbc-3.23.1.jar
+Main-Class: main.Main
+
